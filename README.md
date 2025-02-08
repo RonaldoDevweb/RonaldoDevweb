@@ -11,8 +11,8 @@ Projetos práticos que conectam criatividade e lógica.
 Experiência com frameworks como Express.js e React.
 Um portfólio no GitHub que conta a minha história em cada linha de código.
 
-🧑🏼‍🤝‍👩🏻🐕🐕 O que me inspira?
-Minha transição de carreira foi movida pelo desejo de resolver problemas e criar algo significativo. Assim como treinar um músculo, acredito que o aprendizado em tecnologia exige prática, consistência e paixão.
+🧑🏼‍🤝‍👩🏻🐕🐕 O que me inspira?  
+Minha transição de carreira foi movida pelo desejo de resolver problemas e criar algo significativo, mas minha maior motivação vem da minha esposa e da minha família, que sempre acreditaram em mim e me apoiaram em cada passo dessa jornada. Assim como treinar um músculo, acredito que o aprendizado em tecnologia exige prática, consistência e paixão – valores que encontro diariamente no amor e na força que eles me transmitem. 
 
 🎮 Além da tela do computador:
 Jogar videogames para estimular a criatividade.
