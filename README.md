@@ -1,26 +1,35 @@
 # 👨🏼‍💻 Ronaldo Santos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
-Olá! Meu nome é Ronaldo Santos , e estou embarcando em uma jornada emocionante para me tornar um Desenvolvedor Fullstack!
+Olá! Meu nome é Ronaldo Santos , e estou embarcando em uma jornada emocionante para me tornar um Desenvolvedor Backend!
 
-Como Personal Trainer, sempre fui apaixonado por ajudar pessoas a alcançarem seus objetivos. Agora, levo essa mesma paixão para o mundo da tecnologia, criando soluções inteligentes e impactantes com JavaScript, HTML, e CSS.
 
-🚀 O que estou construindo?
-Projetos práticos que conectam criatividade e lógica.
-Experiência com frameworks como Express.js e React.
-Um portfólio no GitHub que conta a minha história em cada linha de código.
+---
 
-🧑🏼‍🤝‍👩🏻🐕🐕 O que me inspira?  
+Em transição de carreira com propósito e foco no backend!
+
+Atualmente sou estudante de Engenharia de Software, com foco em desenvolvimento backend, explorando tecnologias como **Go (Golang), Python e Java**, além de práticas sólidas em **APIs, arquitetura de software e deploy de sistemas**.
+
+Minha primeira carreira foi como Educador Físico, onde atuei como **Líder de Professores**, desenvolvendo habilidades como trabalho em equipe, organização, resiliência e foco em resultados — competências que levo comigo para o universo da tecnologia.
+
+A paixão por resolver problemas complexos e criar soluções escaláveis me levou a migrar para a área tech. Desde então, tenho me dedicado a estudar profundamente as ferramentas do backend, sempre com projetos práticos para aplicar o conhecimento na vida real. A disciplina e constância que construí na área da saúde são agora direcionadas para minha evolução como desenvolvedor.
+
+O que me inspira?  
 Minha transição de carreira foi movida pelo desejo de resolver problemas e criar algo significativo, mas minha maior motivação vem da minha esposa e da minha família, que sempre acreditaram em mim e me apoiaram em cada passo dessa jornada. Assim como treinar um músculo, acredito que o aprendizado em tecnologia exige prática, consistência e paixão – valores que encontro diariamente no amor e na força que eles me transmitem. 
 
-🎮 Além da tela do computador:
-Jogar videogames para estimular a criatividade.
-Assistir a séries e animes com minha esposa.
-Passear com nossos cachorros e recarregar as energias treinando.
+ Habilidades Técnicas:
 
-🛜 Vamos nos conectar?
-Estou aqui para trocar ideias, aprender mais e compartilhar insights sobre a jornada de transição de carreira e desenvolvimento de software.
+* Go (Golang)
+* Python
+* Java
+* Desenvolvimento de APIs
+* Arquitetura de Software
+* Deploy de Sistemas
+* Boas práticas de código e versionamento
+
+
+---
 
 <p align ="left">
     <a href="https://github.com/RonaldoDevweb?tab=stars">
