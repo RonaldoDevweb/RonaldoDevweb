@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Ronaldo Santos
+#  Ronaldo Santos
 
 **`Desenvolvedor Backend`**
 
@@ -7,7 +7,7 @@ Olá! Meu nome é Ronaldo Santos , e estou embarcando em uma jornada emocionante
 
 ---
 
-Em transição de carreira com propósito e foco no backend!
+Foco no Backend e futuramente Fullstack....
 
 Atualmente sou estudante de Engenharia de Software, com foco em desenvolvimento backend, explorando tecnologias como **Go (Golang), Python e Java**, além de práticas sólidas em **APIs, arquitetura de software e deploy de sistemas**.
 
